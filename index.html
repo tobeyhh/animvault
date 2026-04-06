@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anim Vault</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="app">
+
+  <!-- SIDEBAR -->
+  <div id="sidebar">
+    <div id="sidebar-logo">
+      <div class="logo-mark">
+        <div class="logo-icon">AV</div>
+        <div>
+          <h1>Anim Vault</h1>
+          <p>/anim command library</p>
+        </div>
+      </div>
+    </div>
+
+    <div id="sidebar-search">
+      <input type="text" id="search-input" placeholder="Search anims... (Ctrl+K)">
+    </div>
+
+    <div id="sidebar-section-label">Categories</div>
+    <div id="cat-list"></div>
+  </div>
+
+  <!-- MAIN -->
+  <div id="main">
+    <div id="main-header">
+      <div id="main-header-left">
+        <h2 id="main-title">Anim Vault</h2>
+        <div id="main-header-sub">select a category</div>
+      </div>
+    </div>
+    <div id="anim-grid">
+      <p class="empty-state">← pick a category to get started</p>
+    </div>
+  </div>
+
+</div>
+
+<!-- TOAST -->
+<div id="toast"></div>
+
+<script src="app.js"></script>
+</body>
+</html>

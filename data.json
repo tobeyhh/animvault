@@ -1,0 +1,119 @@
+{
+  "categories": [
+    {
+      "id": "sitting",
+      "name": "Sitting",
+      "anims": [
+        { "id": "s1", "name": "Relaxed Sit <span style='background:#3b82f6;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>MALE</span>", "cmd": "/anim sit6", "notes": "", "img": "" },
+        { "id": "s2", "name": "Sit Couch/Stairs <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim sit7", "notes": "", "img": "" },
+        { "id": "s3", "name": "Relaxed Female Sit <span style='background:#ec4899;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>FEMALE</span>", "cmd": "/anim sit4", "notes": "", "img": "" },
+        { "id": "s4", "name": "Calm Female Sit #2 <span style='background:#ec4899;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>FEMALE</span>", "cmd": "/anim sit5", "notes": "", "img": "" },
+        { "id": "s5", "name": "Calm Female Sit #3 <span style='background:#ec4899;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>FEMALE</span>", "cmd": "/anim sit8", "notes": "", "img": "" },
+        { "id": "s6", "name": "Moving Legs Sit <span style='background:#ec4899;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>FEMALE</span>", "cmd": "/anim sit9", "notes": "", "img": "" },
+        { "id": "s7", "name": "Focused Sit <span style='background:#3b82f6;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>MALE</span>", "cmd": "/anim sitchair19", "notes": "", "img": "" },
+        { "id": "s8", "name": "Cross Legs Sit <span style='background:#3b82f6;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>MALE</span>", "cmd": "/anim sitchair26", "notes": "", "img": "" },
+        { "id": "s9", "name": "Lay on Couch <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim sitchair32", "notes": "", "img": "" },
+        { "id": "s10", "name": "Lazy Sit <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim lazy", "notes": "", "img": "" },
+        { "id": "s11", "name": "Sit on Stairs <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim stairssit", "notes": "", "img": "" },
+        { "id": "s12", "name": "Sit & Cry <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim weepingsit", "notes": "", "img": "" },
+        { "id": "s13", "name": "Sit by TV <span style='background:#3b82f6;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>MALE</span>", "cmd": "/anim sitbytv", "notes": "", "img": "" },
+        { "id": "s14", "name": "Side Sit <span style='background:#ec4899;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>FEMALE</span>", "cmd": "/anim sidesit", "notes": "", "img": "" }
+      ]
+    },
+
+    {
+      "id": "dancing",
+      "name": "Dancing",
+      "anims": [
+        { "id": "d1", "name": "Slow Dance <span style='background:#3b82f6;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>MALE</span>", "cmd": "/anim ravedance1", "notes": "", "img": "" },
+        { "id": "d2", "name": "Rolls Royce Dance <span style='background:#3b82f6;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>MALE</span>", "cmd": "/anim ravedance29", "notes": "", "img": "" },
+        { "id": "d3", "name": "OG Dance <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim ravedance30", "notes": "", "img": "" },
+        { "id": "d4", "name": "Katia Dance <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim partydance19", "notes": "", "img": "" },
+        { "id": "d5", "name": "VIP Dance <span style='background:#3b82f6;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>MALE</span>", "cmd": "/anim partydance39", "notes": "", "img": "" },
+        { "id": "d6", "name": "Female Dance <span style='background:#ec4899;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>FEMALE</span>", "cmd": "/anim ravedance17", "notes": "", "img": "" }
+      ]
+    },
+
+    {
+      "id": "eating",
+      "name": "Eating / Drinking",
+      "anims": [
+        { "id": "e1", "name": "Drink Coffee <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim walkdrink", "notes": "", "img": "" },
+        { "id": "e2", "name": "Drink Cola <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim walkdrink2", "notes": "", "img": "" },
+        { "id": "e3", "name": "Eat Burger <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim walkeat1", "notes": "", "img": "" },
+        { "id": "e4", "name": "Eat Burrito <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim walkeat3", "notes": "", "img": "" },
+        { "id": "e5", "name": "Hold Beer <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim beerhold", "notes": "", "img": "" },
+        { "id": "e6", "name": "Sit Drink Beer <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim sitbeer", "notes": "", "img": "" }
+      ]
+    },
+
+    {
+      "id": "walking",
+      "name": "Walking / Running",
+      "anims": [
+        { "id": "w1", "name": "Male Walk <span style='background:#3b82f6;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>MALE</span>", "cmd": "/anim walk6", "notes": "", "img": "" },
+        { "id": "w2", "name": "Male Run <span style='background:#3b82f6;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>MALE</span>", "cmd": "/anim running2", "notes": "", "img": "" },
+        { "id": "w3", "name": "Female Runu <span style='background:#ec4899;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>FEMALE</span>", "cmd": "/anim running1", "notes": "", "img": "" }
+      ]
+    },
+
+    {
+      "id": "standing",
+      "name": "Standing / Working",
+      "anims": [
+        { "id": "st1", "name": "ATM <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim atm", "notes": "", "img": "" },
+        { "id": "st2", "name": "Typing <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim desksit2", "notes": "", "img": "" },
+        { "id": "st3", "name": "Hands on Hips <span style='background:#3b82f6;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>MALE</span>", "cmd": "/anim malehandsonhips", "notes": "", "img": "" },
+        { "id": "st4", "name": "Clean Wall <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim cleanwall", "notes": "", "img": "" },
+        { "id": "st5", "name": "Mopping <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim mopping", "notes": "", "img": "" },
+        { "id": "st6", "name": "Mechanic <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim mechanic", "notes": "", "img": "" },
+        { "id": "st7", "name": "Mechanic <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim mechanic1", "notes": "", "img": "" },
+        { "id": "st8", "name": "Mechanic <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim enginemechanic1", "notes": "", "img": "" }
+      ]
+    },
+
+    {
+      "id": "tactics",
+      "name": "Tactics",
+      "anims": [
+        { "id": "t1", "name": "Vest Hold <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim tactical14", "notes": "", "img": "" },
+        { "id": "t2", "name": "Belt Grab <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim beltgrab", "notes": "", "img": "" },
+        { "id": "t3", "name": "Kneel Gun <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim tactical1", "notes": "", "img": "" }
+      ]
+    },
+
+    {
+      "id": "romantic",
+      "name": "Romantic",
+      "anims": [
+        { "id": "r1", "name": "Hug <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim leaning2", "notes": "", "img": "" },
+        { "id": "r2", "name": "Hand Behind Back <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim garbage", "notes": "", "img": "" }
+      ]
+    },
+
+    {
+      "id": "phone",
+      "name": "Phone",
+      "anims": [
+        { "id": "p1", "name": "Hold Phone <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim phone4", "notes": "", "img": "" },
+        { "id": "p2", "name": "Take Picture <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim phone1", "notes": "", "img": "" },
+        { "id": "p3", "name": "Call <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim phone5", "notes": "", "img": "" },
+        { "id": "p4", "name": "Texting <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim texting", "notes": "", "img": "" },
+        { "id": "p5", "name": "Texting <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim texting", "notes": "", "img": "" }
+      ]
+    },
+{
+      "id": "customs",
+      "name": "Custom Anims",
+      "anims": [
+        { "id": "ca1", "name": "Hold Phone <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim phone4", "notes": "", "img": "" },
+        { "id": "ca2", "name": "Take Picture <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim phone1", "notes": "", "img": "" },
+        { "id": "ca3", "name": "Call <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim phone5", "notes": "", "img": "" },
+        { "id": "ca4", "name": "Texting <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim texting", "notes": "", "img": "" },
+        { "id": "ca5", "name": "Texting <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim texting", "notes": "", "img": "" },
+        { "id": "ca5", "name": "Texting <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim texting", "notes": "", "img": "" }
+      ]
+    }
+
+  ]
+}
