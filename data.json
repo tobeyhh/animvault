@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": "sitting",
-      "name": "Sit Anims",
+      "name": "Siting",
       "anims": [
         { "id": "s1", "name": "Relaxed Sit <span style='background:#3b82f6;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>MALE</span>", "cmd": "/anim sit6", "notes": "", "img": "" },
         { "id": "s2", "name": "Sit Couch/Stairs <span style='background:#6b7280;color:white;padding:2px 6px;border-radius:6px;font-size:10px;'>NEUTRAL</span>", "cmd": "/anim sit7", "notes": "", "img": "" },
